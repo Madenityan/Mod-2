@@ -1,9 +1,7 @@
 
-.container{    
+.container {    
 width: 650px;
 margin: 0 auto;
-border-left: 3px solid #e3e3e3;
-border-right: 3px solid #e3e3e3;
 padding: 30px 80px;
 }
 
@@ -11,6 +9,19 @@ h1 {
 	text-align: center;
 }
 
-.image {
+.center {
+	text-align: center;
+}
+
+.img {
+	float: left;
+	margin: 9px;
+
+}
+.image-2 {
 		text-align:center;
 	}
+
+.text {
+	text-align: right;
+}
